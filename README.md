@@ -20,8 +20,8 @@
 #### cd wordPress
 
 # Usage
-#### python2 cantix.py -t [domain.tld/wp-login.php] -u [username] -p [passwordlist]
-#### python2 cantix.py -t http://cantixcr3w.tld/wp-login.php -u rexa -p password.txt
+#### python2 brute.py -t [domain.tld/wp-login.php] -u [username] -p [passwordlist]
+#### python2 brute.py -t http://cantixcr3w.tld/wp-login.php -u rexa -p password.txt
 
 
 ## Requirements
