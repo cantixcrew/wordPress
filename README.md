@@ -1,5 +1,4 @@
 <p align="center">
-  <a href="https://wpscan.org/">
     <img src="https://github.com/cantixcrew/wordPress/blob/master/data/20200522_233508.jpg" alt="Cantix Crew logo">
   </a>
 </p>
@@ -8,6 +7,7 @@
 
 <p align="center">
   WordPress Bruteforce
+  <br>
   <a href="https://twitter.com/cantixcr3w" title="twitter" target="_blank">Twitter</a> - <a href="https://instagram.com/cantixcr3w/" title="instagram" target="_blank">Instagram</a> - <a href="https://facebook.com/cantixcr3w/" title="Fanspage" target="_blank">Fanspage</a>
 </p>
 
