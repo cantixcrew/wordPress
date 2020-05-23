@@ -1,6 +1,8 @@
 #!/usr/bin/python3
 #coding:utf-8
 
+#23/05/2020
+#happy eid mubarak 1441H
 #creator  : Rex4
 #developed: Cantix Crew
 #greetz   : all indonesian hacktivist
@@ -8,6 +10,9 @@
 #facebook.com/cantixcr3w
 #twitter.com/cantixcr3w
 #cantixcr3w@yahoo.com
+#icq: @leexaaaa
+#skype: live:.cid.af8a8a259ed02c40
+#thanks for use our tools.
 
 import argparse
 import requests
