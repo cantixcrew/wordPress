@@ -16,6 +16,8 @@
 #### pkg install python2
 #### git clone https://github.com/cantixcrew/wordPress
 #### cd wordPress
+#### nano password.txt
+#### drop or paste your best password list to password.txt
 
 # Usage
 #### python2 brute.py -t [domain.tld/wp-login.php] -u [username] -p [passwordlist]
