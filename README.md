@@ -8,7 +8,7 @@
 <p align="center">
   WordPress Bruteforce
   <br>
-  <a href="https://twitter.com/cantixcr3w" title="twitter" target="_blank">Twitter</a> - <a href="https://instagram.com/cantixcr3w/" title="instagram" target="_blank">Instagram</a> - <a href="https://facebook.com/cantixcr3w/" title="Fanspage" target="_blank">Fanspage</a>
+  <a href="https://twitter.com/nenghaxor" title="twitter" target="_blank">Twitter</a> - <a href="https://instagram.com/cantixcr3w/" title="instagram" target="_blank">Instagram</a> - <a href="https://facebook.com/cantixcr3w/" title="Fanspage" target="_blank">Fanspage</a>
 </p>
 
 
