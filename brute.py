@@ -24,7 +24,7 @@ def reportarError(error):
 {error}
 {bars}
 
-https://twitter.com/cantixcr3w
+https://twitter.com/nenghaxor
 thanks for support us!
 """.format(error=error.message, bars="-"*len(error.message))
 
